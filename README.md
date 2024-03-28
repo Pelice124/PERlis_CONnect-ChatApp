@@ -31,6 +31,3 @@ PERlis-CONnect is a feature-rich chat application designed to facilitate seamles
 
 We welcome contributions to enhance PERlis-CONnect. Feel free to open issues or submit pull requests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
